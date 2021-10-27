@@ -1,0 +1,62 @@
+#gora{
+    height:60px;
+    background-color: #45517D;
+    text-align: right;
+    color: white;
+    font-size: 120%;
+    
+}
+#lewo{
+   background-color: #61B2EC;
+   width:40%;
+   height:500px;
+   float:left;
+ 
+}
+#prawo{
+    background-color: #8EC9F2;
+    width:60%;
+    height:500px;
+    float:right;
+    
+ }
+ #dol{
+     position: static;
+     font-size: 150%;
+    background-color: #45517D;
+    width:100%;
+    height:700px;
+    color: white;
+    
+    text-align: center;
+    
+    
+ }
+
+ #tabela{
+
+width:100%;
+height:28%;
+color:white;
+
+ }
+
+ #td{
+
+font-size: 150%;
+width:33%;
+height:28%;
+color:white;
+text-align: center; 
+ }
+
+ 
+a{
+    color: orange;
+}
+a:visited{
+    color: green;
+}
+table{
+    width: 100%;
+}
